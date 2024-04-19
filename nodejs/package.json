@@ -1,0 +1,12 @@
+{
+  "name": "desafio-fullcycle",
+  "version": "1.0.0",
+  "description": "Desafio Full Cycle Rocks!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
